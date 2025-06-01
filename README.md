@@ -1,73 +1,61 @@
-# Welcome to your Lovable project
+## 产品双核：
+1. 打造习惯飞轮，产生复利效应。
+  1. 让自己的积累不乱消耗，让积累进一步促进产出，促进正反馈的产生。
+2. 验证需求，减少冲动消费。
+  1. 通过完成一定次数的习惯，积攒能量，兑换奖励。
+  2. 如果没有积攒足够的能量，说明这件事情没有持续下去，那么就验证了需求不大。
 
-## Project info
+## 灵感启发：
+习惯点点的APP，有习惯和奖励。
 
-**URL**: https://lovable.dev/projects/12c27f12-3a3d-4070-a640-77a217e0f40e
+完成习惯可以获得能量，
 
-## How can I edit this code?
+一定数额的能量可以换一个奖励。
 
-There are several ways of editing your application.
+正常是什么样子？
 
-**Use Lovable**
+每天看半个小时书，
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/12c27f12-3a3d-4070-a640-77a217e0f40e) and start prompting.
+累计30天，出去吃一顿。
 
-Changes made via Lovable will be committed automatically to this repo.
+这是一个正反馈，很好。
 
-**Use your preferred IDE**
+再深一点是什么？
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+换一本书，
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+这样就可以形成飞轮，出现复利效应。
 
-Follow these steps:
+再精进一点呢？
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+不刷视频，转而去阅读，
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+每次用30min的刷视频时间换30min的阅读时间，
 
-# Step 3: Install the necessary dependencies.
-npm i
+累计30次，买一本书。
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+这样的好处是：
 
-**Edit a file directly in GitHub**
+抑制换习惯，加强好习惯，
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+下一次，由于坏习惯变弱了，好习惯加强了，
 
-**Use GitHub Codespaces**
+好习惯更容易打败坏习惯，
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+形成加强版的飞轮，每次都会削弱坏习惯的力量，同时使得好习惯的力量越来越强。
 
-## What technologies are used for this project?
+谈买健身器材这件事情：
 
-This project is built with:
+设定每天跑步2km，持续30天，可以买一个30元的器材。
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+如果达到了，那么就证明了我喜欢锻炼，那么这30元的器材我大概率会用上，
 
-## How can I deploy this project?
+如果没有达到，即便买了这个30元的器材，我也不会经常用它，所以不需要买。
 
-Simply open [Lovable](https://lovable.dev/projects/12c27f12-3a3d-4070-a640-77a217e0f40e) and click on Share -> Publish.
+当你的习惯和你的奖励越接近，实现的效果越好，形成的飞轮速度更快。
 
-## Can I connect a custom domain to my Lovable project?
+这个思路很像自我证明。
 
-Yes, you can!
+如果我足够强，我就不需要自我证明，
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+如果我不够强，即便我自我证明，也没有用。
